@@ -1,0 +1,41 @@
+D:\baret project\Trial\Trial.Core\bin\Debug\net7.0\Trial.Core.deps.json
+D:\baret project\Trial\Trial.Core\bin\Debug\net7.0\Trial.Core.dll
+D:\baret project\Trial\Trial.Core\bin\Debug\net7.0\Trial.Core.pdb
+D:\baret project\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.csproj.AssemblyReference.cache
+D:\baret project\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\baret project\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.AssemblyInfoInputs.cache
+D:\baret project\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.AssemblyInfo.cs
+D:\baret project\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.csproj.CoreCompileInputs.cache
+D:\baret project\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.dll
+D:\baret project\Trial\Trial.Core\obj\Debug\net7.0\refint\Trial.Core.dll
+D:\baret project\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.pdb
+D:\baret project\Trial\Trial.Core\obj\Debug\net7.0\ref\Trial.Core.dll
+C:\Users\acer\Downloads\Trial\Trial.Core\bin\Debug\net7.0\Trial.Core.deps.json
+C:\Users\acer\Downloads\Trial\Trial.Core\bin\Debug\net7.0\Trial.Core.dll
+C:\Users\acer\Downloads\Trial\Trial.Core\bin\Debug\net7.0\Trial.Core.pdb
+C:\Users\acer\Downloads\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Downloads\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.AssemblyInfo.cs
+C:\Users\acer\Downloads\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.dll
+C:\Users\acer\Downloads\Trial\Trial.Core\obj\Debug\net7.0\refint\Trial.Core.dll
+C:\Users\acer\Downloads\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.pdb
+C:\Users\acer\Downloads\Trial\Trial.Core\obj\Debug\net7.0\ref\Trial.Core.dll
+D:\C# proggraming Project\Trial\Trial.Core\bin\Debug\net7.0\Trial.Core.deps.json
+D:\C# proggraming Project\Trial\Trial.Core\bin\Debug\net7.0\Trial.Core.dll
+D:\C# proggraming Project\Trial\Trial.Core\bin\Debug\net7.0\Trial.Core.pdb
+D:\C# proggraming Project\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.csproj.AssemblyReference.cache
+D:\C# proggraming Project\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# proggraming Project\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.AssemblyInfoInputs.cache
+D:\C# proggraming Project\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.AssemblyInfo.cs
+D:\C# proggraming Project\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.csproj.CoreCompileInputs.cache
+D:\C# proggraming Project\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.dll
+D:\C# proggraming Project\Trial\Trial.Core\obj\Debug\net7.0\refint\Trial.Core.dll
+D:\C# proggraming Project\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.pdb
+D:\C# proggraming Project\Trial\Trial.Core\obj\Debug\net7.0\ref\Trial.Core.dll
+D:\C# proggraming Project\Trial\Trial.Core\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\C# proggraming Project\Trial\Trial.Core\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C# proggraming Project\Trial\Trial.Core\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.xml
+D:\C# proggraming Project\Trial\Trial.Core\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.xml
+D:\C# proggraming Project\Trial\Trial.Core\obj\Debug\net7.0\Trial.Core.csproj.CopyComplete

@@ -1,0 +1,57 @@
+D:\baret project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.FrameWork.deps.json
+D:\baret project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.FrameWork.dll
+D:\baret project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.FrameWork.pdb
+D:\baret project\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.FrameWork.csproj.AssemblyReference.cache
+D:\baret project\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.FrameWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\baret project\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.FrameWork.AssemblyInfoInputs.cache
+D:\baret project\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.FrameWork.AssemblyInfo.cs
+D:\baret project\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.FrameWork.csproj.CoreCompileInputs.cache
+D:\baret project\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.FrameWork.dll
+D:\baret project\Trial\Trial.FrameWork\obj\Debug\net7.0\refint\Trial.FrameWork.dll
+D:\baret project\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.FrameWork.pdb
+D:\baret project\Trial\Trial.FrameWork\obj\Debug\net7.0\ref\Trial.FrameWork.dll
+D:\baret project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Core.dll
+D:\baret project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Data.dll
+D:\baret project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Service.dll
+D:\baret project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Core.pdb
+D:\baret project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Service.pdb
+D:\baret project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Data.pdb
+D:\baret project\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.Framework.csproj.CopyComplete
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Framework.deps.json
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Framework.dll
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Framework.pdb
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Core.dll
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Data.dll
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Service.dll
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Core.pdb
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Service.pdb
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Data.pdb
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.Framework.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.Framework.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.Framework.AssemblyInfo.cs
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.Framework.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.Framework.csproj.CopyComplete
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.Framework.dll
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\obj\Debug\net7.0\refint\Trial.Framework.dll
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.Framework.pdb
+C:\Users\acer\Downloads\Trial\Trial.FrameWork\obj\Debug\net7.0\ref\Trial.Framework.dll
+D:\C# proggraming Project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Framework.deps.json
+D:\C# proggraming Project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Framework.dll
+D:\C# proggraming Project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Framework.pdb
+D:\C# proggraming Project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Core.dll
+D:\C# proggraming Project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Data.dll
+D:\C# proggraming Project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Service.dll
+D:\C# proggraming Project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Core.pdb
+D:\C# proggraming Project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Service.pdb
+D:\C# proggraming Project\Trial\Trial.FrameWork\bin\Debug\net7.0\Trial.Data.pdb
+D:\C# proggraming Project\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.Framework.csproj.AssemblyReference.cache
+D:\C# proggraming Project\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# proggraming Project\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.Framework.AssemblyInfoInputs.cache
+D:\C# proggraming Project\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.Framework.AssemblyInfo.cs
+D:\C# proggraming Project\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.Framework.csproj.CoreCompileInputs.cache
+D:\C# proggraming Project\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.Framework.csproj.CopyComplete
+D:\C# proggraming Project\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.Framework.dll
+D:\C# proggraming Project\Trial\Trial.FrameWork\obj\Debug\net7.0\refint\Trial.Framework.dll
+D:\C# proggraming Project\Trial\Trial.FrameWork\obj\Debug\net7.0\Trial.Framework.pdb
+D:\C# proggraming Project\Trial\Trial.FrameWork\obj\Debug\net7.0\ref\Trial.Framework.dll

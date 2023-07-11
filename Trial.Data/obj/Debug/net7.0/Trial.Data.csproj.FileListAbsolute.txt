@@ -1,0 +1,51 @@
+D:\baret project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.csproj.AssemblyReference.cache
+D:\baret project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\baret project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.AssemblyInfoInputs.cache
+D:\baret project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.AssemblyInfo.cs
+D:\baret project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.csproj.CoreCompileInputs.cache
+D:\baret project\Trial\Trial.Data\bin\Debug\net7.0\Trial.Data.deps.json
+D:\baret project\Trial\Trial.Data\bin\Debug\net7.0\Trial.Data.dll
+D:\baret project\Trial\Trial.Data\bin\Debug\net7.0\Trial.Data.pdb
+D:\baret project\Trial\Trial.Data\bin\Debug\net7.0\Trial.Core.dll
+D:\baret project\Trial\Trial.Data\bin\Debug\net7.0\Trial.Core.pdb
+D:\baret project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.csproj.CopyComplete
+D:\baret project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.dll
+D:\baret project\Trial\Trial.Data\obj\Debug\net7.0\refint\Trial.Data.dll
+D:\baret project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.pdb
+D:\baret project\Trial\Trial.Data\obj\Debug\net7.0\ref\Trial.Data.dll
+D:\baret project\Trial\Trial.Data\bin\Debug\net7.0\Trial.Data.runtimeconfig.json
+D:\baret project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.genruntimeconfig.cache
+C:\Users\acer\Downloads\Trial\Trial.Data\bin\Debug\net7.0\Trial.Data.deps.json
+C:\Users\acer\Downloads\Trial\Trial.Data\bin\Debug\net7.0\Trial.Data.runtimeconfig.json
+C:\Users\acer\Downloads\Trial\Trial.Data\bin\Debug\net7.0\Trial.Data.dll
+C:\Users\acer\Downloads\Trial\Trial.Data\bin\Debug\net7.0\Trial.Data.pdb
+C:\Users\acer\Downloads\Trial\Trial.Data\bin\Debug\net7.0\Trial.Core.dll
+C:\Users\acer\Downloads\Trial\Trial.Data\bin\Debug\net7.0\Trial.Core.pdb
+C:\Users\acer\Downloads\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Downloads\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.AssemblyInfo.cs
+C:\Users\acer\Downloads\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.csproj.CopyComplete
+C:\Users\acer\Downloads\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.dll
+C:\Users\acer\Downloads\Trial\Trial.Data\obj\Debug\net7.0\refint\Trial.Data.dll
+C:\Users\acer\Downloads\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.pdb
+C:\Users\acer\Downloads\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.genruntimeconfig.cache
+C:\Users\acer\Downloads\Trial\Trial.Data\obj\Debug\net7.0\ref\Trial.Data.dll
+D:\C# proggraming Project\Trial\Trial.Data\bin\Debug\net7.0\Trial.Data.deps.json
+D:\C# proggraming Project\Trial\Trial.Data\bin\Debug\net7.0\Trial.Data.runtimeconfig.json
+D:\C# proggraming Project\Trial\Trial.Data\bin\Debug\net7.0\Trial.Data.dll
+D:\C# proggraming Project\Trial\Trial.Data\bin\Debug\net7.0\Trial.Data.pdb
+D:\C# proggraming Project\Trial\Trial.Data\bin\Debug\net7.0\Trial.Core.dll
+D:\C# proggraming Project\Trial\Trial.Data\bin\Debug\net7.0\Trial.Core.pdb
+D:\C# proggraming Project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.csproj.AssemblyReference.cache
+D:\C# proggraming Project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# proggraming Project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.AssemblyInfoInputs.cache
+D:\C# proggraming Project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.AssemblyInfo.cs
+D:\C# proggraming Project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.csproj.CoreCompileInputs.cache
+D:\C# proggraming Project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.csproj.CopyComplete
+D:\C# proggraming Project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.dll
+D:\C# proggraming Project\Trial\Trial.Data\obj\Debug\net7.0\refint\Trial.Data.dll
+D:\C# proggraming Project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.pdb
+D:\C# proggraming Project\Trial\Trial.Data\obj\Debug\net7.0\Trial.Data.genruntimeconfig.cache
+D:\C# proggraming Project\Trial\Trial.Data\obj\Debug\net7.0\ref\Trial.Data.dll
